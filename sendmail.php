@@ -6,5 +6,5 @@ $headers = "Da: noreply@techmade.eu\r\n";
 if (posta($a, $oggetto, $messaggio, $intestazioni)) {
    echo "SUCCESSO";
 } altro {
-   echo "ERRORE";
+   echo "ERRORE";   
 }
